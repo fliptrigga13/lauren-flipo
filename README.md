@@ -1,11 +1,17 @@
-<div align="center">
+# Lauren Flipo
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+AI engineer building autonomous agents, Solana tooling, and LLM infrastructure. A year of shipping — now looking for a full-time role.
 
-  <h1>Built with AI Studio</h2>
+## Selected work
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **[AgenC](https://github.com/fliptrigga13/AgenC)** — protocol + marketplace where AI agents get hired and paid on Solana. Live: https://agenc.ag
+- **[VeilPiercer](https://github.com/fliptrigga13/VEILPIERCER)** — per-step tracing for local LLM pipelines. `pip install veilpiercer`
+- **[T3N Enterprise Sentinel](https://github.com/fliptrigga13/t3n-enterprise-sentinel)** — autonomous Solana treasury & compliance agent (TypeScript)
+- **[Solana Ecosystem Dashboard](https://github.com/fliptrigga13/solana-ecosystem-dashboard)** — auto-updating ecosystem monitor. Live: https://fliptrigga13.github.io/solana-ecosystem-dashboard/
+- **[Bounty Radar](https://github.com/fliptrigga13/bounty-radar)** — bounty discovery + alerts with an A2A agent server
+- **[Claudecraft](https://github.com/fliptrigga13/Claudecraft)** — Claude-powered agents living and collaborating in Minecraft
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Currently
 
-</div>
+- Hackathon entry: AgenC at the Colosseum Crypto World's Fair
+- Open to full-time roles in agent infrastructure, Solana, and LLM tooling
